@@ -9,3 +9,12 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Thoughts:** Found it really interesting and refreshing.
 
 **Link to work:** https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph
+
+
+Day 2: September 10, 2019
+
+Today's Progress: Completed the introduction to Basic HTML and HTML5. Started the Introduction to Basic CSS. Pushed all my codes to github: https://github.com/Willomans/eLearning
+
+Thoughts: Resolved all the changes by trying different scenarios.
+
+Link to work: https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-selectors-to-style-elements
