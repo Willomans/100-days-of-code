@@ -36,3 +36,14 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Thoughts**: Practice and resolved the challenges in a short space of time
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-font-family-of-an-element
+
+
+### Day 5: September 13, 2019
+
+**Today's Progress**: A quick recap on what have learnt so far and completed the following challenges:  Import a Google Font, Specify How Fonts Should Degrade, Size Your Images and Add Borders Around Your Elements. Pushed all my codes to github. https://github.com/Willomans/eLearning
+
+**Thoughts**: Dedicate time to recap on what was done a day before before attempting the challenges.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/add-borders-around-your-elements
+
+
