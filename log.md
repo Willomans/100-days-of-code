@@ -18,3 +18,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Thoughts:** Resolved all the changes by trying different scenarios.
 
 **Link to work:** https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-selectors-to-style-elements
+
+###Day 3: September 11, 2019
+
+**Today's Progress**: Wrestling with the Introduction to Basic CSS. Pushed all my codes to github. Looking forward to Day 4 of #100DaysOfCode. https://github.com/Willomans/eLearning
+
+**Thoughts**: Resolved all the challenges by trying different methods and understanding the principles on how i arrived at the final answers.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-css-class-to-style-an-element
