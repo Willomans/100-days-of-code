@@ -27,3 +27,12 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Thoughts**: Resolved all the challenges by trying different methods and understanding the principles on how i arrived at the final answers.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-css-class-to-style-an-element
+
+
+### Day 4: September 12, 2019
+
+**Today's Progress**: Use a CSS Class to Style an Element, Style Multiple Elements with a CSS Class, Change the Font Size of an Element, Set the Font Family of an Element. Pushed all my codes to github. https://github.com/Willomans/eLearning
+
+**Thoughts**: Practice and resolved the challenges in a short space of time
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-font-family-of-an-element
