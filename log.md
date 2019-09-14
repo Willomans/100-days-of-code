@@ -40,10 +40,16 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 ### Day 5: September 13, 2019
 
-**Today's Progress**: A quick recap on what have learnt so far and completed the following challenges:  Import a Google Font, Specify How Fonts Should Degrade, Size Your Images and Add Borders Around Your Elements. Pushed all my codes to github. https://github.com/Willomans/eLearning
+**Today's Progress**: A quick recap on what I learnt a day before and completed the following challenges:  Import a Google Font, Specify How Fonts Should Degrade, Size Your Images and Add Borders Around Your Elements. Pushed all my codes to github. https://github.com/Willomans/eLearning
 
 **Thoughts**: Dedicate time to recap on what was done a day before before attempting the challenges.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/add-borders-around-your-elements
 
+### Day 6: September 14, 2019
 
+**Today's Progress**: Add Rounded Corners with border-radius. Make Circular Images with a border-radius. Give a Background Color to a div Element and Set the id of an Element. Pushed all my codes to github. https://github.com/Willomans/eLearning
+
+**Thoughts**: Developed a new learning strategy by listening to music and focusing on the challenges.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-id-of-an-element
