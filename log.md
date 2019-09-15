@@ -54,7 +54,7 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/set-the-id-of-an-element
 
-### Day 6: September 14, 2019
+### Day 7: September 15, 2019
 
 **Today's Progress**: Use an id Attribute to Style an Element - Adjust the Padding of an Element - Adjust the Margin of an Element - Add a Negative Margin to an Element - Add Different Padding to Each Side of an Element - Add Different Margins to Each Side of an Element - Use Clockwise Notation to Specify the Padding of an Element
 
