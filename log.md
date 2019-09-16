@@ -59,3 +59,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Use an id Attribute to Style an Element - Adjust the Padding of an Element - Adjust the Margin of an Element - Add a Negative Margin to an Element - Add Different Padding to Each Side of an Element - Add Different Margins to Each Side of an Element - Use Clockwise Notation to Specify the Padding of an Element
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element
+
+
+### Day 8: September 16, 2019
+
+**Today's Progress**: Use Clockwise Notation to Specify the Margin of an Element. Use Attribute Selectors to Style Elements. Understand Absolute versus Relative Units. Style the HTML Body Element. Inherit Styles from the Body Element. Prioritize One Style Over Another. Override Styles in Subsequent CSS. Override Class Declarations by Styling ID Attributes. Override Class Declarations with Inline Styles. Override All Other Styles by using Important. Use Hex Code for Specific Colors and Use Hex Code to Mix Colors.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/use-hex-code-to-mix-colors
+
