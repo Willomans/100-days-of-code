@@ -67,3 +67,8 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/basic-css/use-hex-code-to-mix-colors
 
+### Day 9: September 17, 2019
+
+**Today's Progress**: Worked on the following challenges: Use Abbreviated Hex Code. Use RGB values to Color Elements. Use RGB to Mix Colors. Use CSS Variables to change several elements at once. Create a custom CSS Variable. Use a custom CSS Variable. Attach a Fallback value to a CSS Variable. Improve Compatibility with Browser Fallbacks. Cascading CSS variables. Change a variable for a specific area. Use a media query to change a variable. Create Visual Balance Using the text-align Property. Adjust the Width of an Element Using the width Property. Adjust the Height of an Element Using the height Property and Use the strong Tag to Make Text Bold.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-strong-tag-to-make-text-bold
