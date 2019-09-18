@@ -72,3 +72,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Worked on the following challenges: Use Abbreviated Hex Code. Use RGB values to Color Elements. Use RGB to Mix Colors. Use CSS Variables to change several elements at once. Create a custom CSS Variable. Use a custom CSS Variable. Attach a Fallback value to a CSS Variable. Improve Compatibility with Browser Fallbacks. Cascading CSS variables. Change a variable for a specific area. Use a media query to change a variable. Create Visual Balance Using the text-align Property. Adjust the Width of an Element Using the width Property. Adjust the Height of an Element Using the height Property and Use the strong Tag to Make Text Bold.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-the-strong-tag-to-make-text-bold
+
+
+### Day 10: September 18, 2019
+
+**Today's Progress**: Worked on the following challenges: Use the u Tag to Underline Text. Use the em Tag to Italicize Text. Use the s Tag to Strikethrough Text. Create a Horizontal Line Using the hr Element. Adjust the background-color Property of Text. Adjust the Size of a Header Versus a Paragraph Tag. Add a box-shadow to a Card-like Element. Decrease the Opacity of an Element. Use the text-transform Property to Make Text Uppercase. Set the font-size for Multiple Heading Elements. Set the font-weight for Multiple Heading Elements. Set the font-size of Paragraph Text. Set the line-height of Paragraphs. Adjust the Hover State of an Anchor Tag. Change an Element's Relative Position. Move a Relatively Positioned Element with CSS Offsets. Lock an Element to its Parent with Absolute Positioning. Lock an Element to the Browser Window with Fixed Positioning. Push Elements Left or Right with the float Property. Change the Position of Overlapping Elements with the z-index Property. Center an Element Horizontally Using the margin Property. Learn about Complementary Colors
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-about-complementary-colors
+
