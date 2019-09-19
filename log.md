@@ -80,3 +80,9 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-about-complementary-colors
 
+
+### Day 11: September 19, 2019
+
+**Today's Progress**: Learn about Tertiary Colors and Adjust the Color of Various Elements to Complementary Colors
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-about-tertiary-colors
