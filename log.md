@@ -86,3 +86,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Learn about Tertiary Colors and Adjust the Color of Various Elements to Complementary Colors
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-about-tertiary-colors
+
+
+### Day 12: September 20, 2019
+
+**Today's Progress**: Adjust the Hue of a Color and the Tone of a Color
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color
