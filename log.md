@@ -93,3 +93,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Adjust the Hue of a Color and the Tone of a Color
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color
+
+
+### Day 13: September 21, 2019
+
+**Today's Progress**: Create a Gradual CSS Linear Gradient and Use a CSS Linear Gradient to Create a Striped Element
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element
