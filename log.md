@@ -100,3 +100,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Create a Gradual CSS Linear Gradient and Use a CSS Linear Gradient to Create a Striped Element
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element
+
+
+### Day 14: September 22, 2019
+
+**Today's Progress**: Create Texture by Adding a Subtle Pattern as a Background Image. Use the CSS Transform scale Property to Change the Size of an Element. Use the CSS Transform scale Property to Scale an Element on Hover. Use the CSS Transform Property skewX to Skew an Element Along the X-Axis. Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis. Create a Graphic Using CSS. Create a More Complex Shape Using CSS and HTML.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html
