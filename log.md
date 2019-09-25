@@ -114,3 +114,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Learn How the CSS @keyframes and animation Properties Work. Uploaded all my codes to github.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work
+
+
+### Day 16: September 25, 2019
+
+**Today's Progress**: Use CSS Animation to Change the Hover State of a Button and Modify Fill Mode of an Animation. Uploaded all my codes to github.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation
