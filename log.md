@@ -121,3 +121,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Use CSS Animation to Change the Hover State of a Button and Modify Fill Mode of an Animation. Uploaded all my codes to github.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation
+
+
+### Day 17: September 26, 2019
+
+**Today's Progress**: Create Movement Using CSS Animation. Create Visual Direction by Fading an Element from Left to Right. Animate Elements Continually Using an Infinite Animation Count
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-elements-continually-using-an-infinite-animation-count
+
