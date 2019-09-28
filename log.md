@@ -135,3 +135,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Animate Elements Continually Using an Infinite Animation Count. Make a CSS Heartbeat using an Infinite Animation Count. Animate Elements at Variable Rates. Animate Multiple Elements at Variable Rates. Change Animation Timing with Keywords. Learn How Bezier Curves Work. Use a Bezier Curve to Move a Graphic. Make Motion More Natural Using a Bezier Curve. Add a Text Alternative to Images for Visually Impaired Accessibility.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/animate-elements-continually-using-an-infinite-animation-count
+
+
+### Day 19: September 28, 2019
+
+**Today's Progress**: Know When Alt Text Should be Left Blank. Use Headings to Show Hierarchical Relationships of Content. Jump Straight to the Content Using the main Element
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element
+
