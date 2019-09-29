@@ -143,3 +143,9 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element
 
+
+### Day 20: September 29, 2019
+
+**Today's Progress**: Jump Straight to the Content Using the main Element. Wrap Content in the article Element
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element
