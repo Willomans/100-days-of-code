@@ -149,3 +149,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Jump Straight to the Content Using the main Element. Wrap Content in the article Element
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element
+
+
+### Day 21: September 30, 2019
+
+**Today's Progress**: Wrap Content in the article Element. Make Screen Reader Navigation Easier with the header Landmark. Make Screen Reader Navigation Easier with the nav Landmark. Make Screen Reader Navigation Easier with the footer Landmark. Improve Accessibility of Audio Content with the audio Element.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-accessibility-of-audio-content-with-the-audio-element
