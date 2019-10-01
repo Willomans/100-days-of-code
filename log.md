@@ -156,3 +156,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Wrap Content in the article Element. Make Screen Reader Navigation Easier with the header Landmark. Make Screen Reader Navigation Easier with the nav Landmark. Make Screen Reader Navigation Easier with the footer Landmark. Improve Accessibility of Audio Content with the audio Element.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-accessibility-of-audio-content-with-the-audio-element
+
+
+### Day 22: October 1, 2019
+
+**Today's Progress**: Improve Chart Accessibility with the figure Element. Improve Form Field Accessibility with the label Element. Wrap Radio Buttons in a fieldset Element for Better Accessibility. Add an Accessible Date Picker.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/add-an-accessible-date-picker
