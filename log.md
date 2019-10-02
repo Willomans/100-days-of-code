@@ -163,3 +163,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Improve Chart Accessibility with the figure Element. Improve Form Field Accessibility with the label Element. Wrap Radio Buttons in a fieldset Element for Better Accessibility. Add an Accessible Date Picker.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/add-an-accessible-date-picker
+
+
+### Day 23: October 2, 2019
+
+**Today's Progress**: Standardize Times with the HTML5 datetime Attribute. Make Elements Only Visible to a Screen Reader by Using Custom CSS.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-elements-only-visible-to-a-screen-reader-by-using-custom-css
+
