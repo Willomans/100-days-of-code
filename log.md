@@ -171,3 +171,9 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-elements-only-visible-to-a-screen-reader-by-using-custom-css
 
+
+### Day 24: October 3, 2019
+
+**Today's Progress**: Improve Readability with High Contrast Text. Avoid Colorblindness Issues by Using Sufficient Contrast. Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information
