@@ -185,3 +185,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/make-links-navigatable-with-html-access-keys
 
+
+
+### Day 26: October 5, 2019
+
+**Today's Progress**: Use tabindex to Add Keyboard Focus to an Element. Use tabindex to Specify the Order of Keyboard Focus for Several Elements.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements
