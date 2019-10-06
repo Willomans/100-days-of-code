@@ -192,3 +192,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Use tabindex to Add Keyboard Focus to an Element. Use tabindex to Specify the Order of Keyboard Focus for Several Elements.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements
+
+
+### Day 27: October 6, 2019
+
+**Today's Progress**: Create a Media Query. Make an Image Responsive. Use a Retina Image for Higher Resolution Displays. Make Typography Responsive. Use display: flex to Position Two Boxes. Add Flex Superpowers to the Tweet Embed. Use the flex-direction Property to Make a Row
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row
