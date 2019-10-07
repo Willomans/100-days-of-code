@@ -199,3 +199,9 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Create a Media Query. Make an Image Responsive. Use a Retina Image for Higher Resolution Displays. Make Typography Responsive. Use display: flex to Position Two Boxes. Add Flex Superpowers to the Tweet Embed. Use the flex-direction Property to Make a Row
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row
+
+### Day 28: October 7, 2019
+
+**Today's Progress**: Apply the flex-direction Property to Create Rows in the Tweet Embed. Use the flex-direction Property to Make a Column. Apply the flex-direction Property to Create a Column in the Tweet Embed. Align Elements Using the justify-content Property. Use the justify-content Property in the Tweet Embed
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed
