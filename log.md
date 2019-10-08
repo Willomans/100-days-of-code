@@ -200,8 +200,8 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row
 
-### Day 28: October 7, 2019
+### Day 29: October 8, 2019
 
-**Today's Progress**: Apply the flex-direction Property to Create Rows in the Tweet Embed. Use the flex-direction Property to Make a Column. Apply the flex-direction Property to Create a Column in the Tweet Embed. Align Elements Using the justify-content Property. Use the justify-content Property in the Tweet Embed
+**Today's Progress**: Align Elements Using the align-items Property. Use the align-items Property in the Tweet Embed. Use the flex-wrap Property to Wrap a Row or Column. Use the flex-shrink Property to Shrink Items. Use the flex-grow Property to Expand Items. Use the flex-basis Property to Set the Initial Size of an Item. Use the flex Shorthand Property. Use the order Property to Rearrange Items. Use the align-self Property.
 
-**Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-align-self-property
