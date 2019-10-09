@@ -205,3 +205,12 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Align Elements Using the align-items Property. Use the align-items Property in the Tweet Embed. Use the flex-wrap Property to Wrap a Row or Column. Use the flex-shrink Property to Shrink Items. Use the flex-grow Property to Expand Items. Use the flex-basis Property to Set the Initial Size of an Item. Use the flex Shorthand Property. Use the order Property to Rearrange Items. Use the align-self Property.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-align-self-property
+
+
+
+### Day 29: October 8, 2019
+
+**Today's Progress**: Create Your First CSS Grid. Add Columns with grid-template-columns
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-grid/add-columns-with-grid-template-columns
+
