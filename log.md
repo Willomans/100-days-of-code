@@ -208,9 +208,15 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 
 
-### Day 29: October 8, 2019
+### Day 29: October 9, 2019
 
 **Today's Progress**: Create Your First CSS Grid. Add Columns with grid-template-columns
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-grid/add-columns-with-grid-template-columns
 
+
+### Day 30: October 10, 2019
+
+**Today's Progress**: Add Rows with grid-template-rows
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-grid/add-rows-with-grid-template-rows
