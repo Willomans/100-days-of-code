@@ -201,7 +201,15 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row
 
 
-### Day 28: October 8, 2019
+### Day 28: October 7, 2019
+
+**Today's Progress**: Apply the flex-direction Property to Create Rows in the Tweet Embed. Use the flex-direction Property to Make a Column. Align Elements Using the justify-content Property. Use the justify-content Property in the Tweet Embed.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed
+
+
+
+### Day 29: October 8, 2019
 
 **Today's Progress**: Align Elements Using the align-items Property. Use the align-items Property in the Tweet Embed. Use the flex-wrap Property to Wrap a Row or Column. Use the flex-shrink Property to Shrink Items. Use the flex-grow Property to Expand Items. Use the flex-basis Property to Set the Initial Size of an Item. Use the flex Shorthand Property. Use the order Property to Rearrange Items. Use the align-self Property.
 
@@ -209,21 +217,21 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 
 
-### Day 29: October 9, 2019
+### Day 30: October 9, 2019
 
 **Today's Progress**: Create Your First CSS Grid. Add Columns with grid-template-columns
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-grid/add-columns-with-grid-template-columns
 
 
-### Day 30: October 10, 2019
+### Day 31: October 10, 2019
 
 **Today's Progress**: Add Rows with grid-template-rows
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-grid/add-rows-with-grid-template-rows
 
 
-### Day 31: October 10, 2019
+### Day 32: October 11, 2019
 
 **Today's Progress**: Use CSS Grid units to Change the Size of Columns and Rows. Create a Column Gap Using grid-column-gap. Create a Row Gap using grid-row-gap. Add Gaps Faster with grid-gap. Use grid-column to Control Spacing. Use grid-row to Control Spacing. Align an Item Horizontally using justify-self. Align an Item Vertically using align-self. Align All Items Horizontally using justify-items. Align All Items Vertically using align-items. Divide the Grid Into an Area Template.
 
