@@ -236,3 +236,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Use CSS Grid units to Change the Size of Columns and Rows. Create a Column Gap Using grid-column-gap. Create a Row Gap using grid-row-gap. Add Gaps Faster with grid-gap. Use grid-column to Control Spacing. Use grid-row to Control Spacing. Align an Item Horizontally using justify-self. Align an Item Vertically using align-self. Align All Items Horizontally using justify-items. Align All Items Vertically using align-items. Divide the Grid Into an Area Template.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-grid/divide-the-grid-into-an-area-template
+
+
+### Day 33: October 12, 2019
+
+**Today's Progress**: Place Items in Grid Areas Using the grid-area Property. Use grid-area Without Creating an Areas Template. Reduce Repetition Using the repeat Function. Limit Item Size Using the minmax Function.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-grid/limit-item-size-using-the-minmax-function
