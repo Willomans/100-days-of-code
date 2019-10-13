@@ -243,3 +243,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Place Items in Grid Areas Using the grid-area Property. Use grid-area Without Creating an Areas Template. Reduce Repetition Using the repeat Function. Limit Item Size Using the minmax Function.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-grid/limit-item-size-using-the-minmax-function
+
+
+### Day 34: October 13, 2019
+
+**Today's Progress**: Create Flexible Layouts Using auto-fill. Create Flexible Layouts Using auto-fit. Use Media Queries to Create Responsive Layouts. Create Grids within Grids.
+
+**Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-grid/create-grids-within-grids
