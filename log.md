@@ -250,3 +250,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Create Flexible Layouts Using auto-fill. Create Flexible Layouts Using auto-fit. Use Media Queries to Create Responsive Layouts. Create Grids within Grids.
 
 **Link to work**: https://learn.freecodecamp.org/responsive-web-design/css-grid/create-grids-within-grids
+
+
+### Day 35: October 14, 2019
+
+**Today's Progress**: Developed a Tribute Page
+
+**Link to work**: https://codepen.io/DanWillomans/pen/qBBZXNG
