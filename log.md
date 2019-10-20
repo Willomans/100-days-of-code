@@ -257,3 +257,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Developed a Tribute Page
 
 **Link to work**: https://codepen.io/DanWillomans/pen/qBBZXNG
+
+
+
+### Day 36: October 20, 2019
+
+**Today's Progress**: Build a Survey Form
+
+**Link to work**: https://codepen.io/DanWillomans/pen/WNNoYPB
