@@ -265,3 +265,12 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Build a Survey Form
 
 **Link to work**: https://codepen.io/DanWillomans/pen/WNNoYPB
+
+
+### Day 37: October 21, 2019
+
+**Today's Progress**: Build a Product Landing Page
+
+**Link to work**: https://codepen.io/DanWillomans/pen/abbpyPY
+
+
