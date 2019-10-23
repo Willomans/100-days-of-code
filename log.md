@@ -274,3 +274,9 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Link to work**: https://codepen.io/DanWillomans/pen/abbpyPY
 
 
+
+### Day 38: October 23, 2019
+
+**Today's Progress**: Build a Technical Documentation Page
+
+**Link to work**: https://codepen.io/DanWillomans/pen/yLLMGbL
