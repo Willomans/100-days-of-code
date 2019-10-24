@@ -280,3 +280,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Build a Technical Documentation Page
 
 **Link to work**: https://codepen.io/DanWillomans/pen/yLLMGbL
+
+
+### Day 39: October 24, 2019
+
+**Today's Progress**: Build a Personal Portfolio Webpage
+
+**Link to work**: https://codepen.io/DanWillomans/pen/xxxdjdO
+
