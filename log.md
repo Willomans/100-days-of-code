@@ -288,3 +288,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://codepen.io/DanWillomans/pen/xxxdjdO
 
+
+
+### Day 40: October 26, 2019
+
+**Today's Progress**: Comment Your JavaScript Code. Declare JavaScript Variables. Storing Values with the Assignment Operator. Initializing Variables with the Assignment Operator. Understanding Uninitialized Variables.
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables
