@@ -302,3 +302,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Understanding Case Sensitivity in Variables. Add Two Numbers with JavaScript. Subtract One Number from Another with JavaScript. Multiply Two Numbers with JavaScript. Divide One Number by Another with JavaScript. Increment a Number with JavaScript. Decrement a Number with JavaScript.
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/decrement-a-number-with-javascript
+
+
+### Day 42: October 28, 2019
+
+**Today's Progress**: Create Decimal Numbers with JavaScript. Multiply Two Decimals with JavaScript. Divide One Decimal by Another with JavaScript. Finding a Remainder in JavaScript
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript
