@@ -309,3 +309,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Create Decimal Numbers with JavaScript. Multiply Two Decimals with JavaScript. Divide One Decimal by Another with JavaScript. Finding a Remainder in JavaScript
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript
+
+
+### Day 43: October 29, 2019
+
+**Today's Progress**: Compound Assignment With Augmented Addition. Uploaded all my codes to GitHub.
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-addition
