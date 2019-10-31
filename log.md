@@ -311,8 +311,15 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript
 
 
-### Day 43: October 29, 2019
+### Day 43: October 30, 2019
 
 **Today's Progress**: Compound Assignment With Augmented Addition. Uploaded all my codes to GitHub.
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-addition
+
+
+### Day 44: October 31, 2019
+
+**Today's Progress**: Compound Assignment With Augmented Subtraction. Compound Assignment With Augmented Multiplication.
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication
