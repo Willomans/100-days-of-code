@@ -323,3 +323,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Compound Assignment With Augmented Subtraction. Compound Assignment With Augmented Multiplication.
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication
+
+
+### Day 45: November 1, 2019
+
+**Today's Progress**: Compound Assignment With Augmented Division. Declare String Variables
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables
+
