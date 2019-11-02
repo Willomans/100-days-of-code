@@ -331,3 +331,9 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables
 
+
+### Day 46: November 2, 2019
+
+**Today's Progress**: Declare String Variables. Escaping Literal Quotes in Strings.
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings
