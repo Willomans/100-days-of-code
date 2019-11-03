@@ -337,3 +337,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Declare String Variables. Escaping Literal Quotes in Strings.
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings
+
+
+### Day 47: November 3, 2019
+
+**Today's Progress**: Quoting Strings with Single Quotes. Escape Sequences in Strings.
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings
