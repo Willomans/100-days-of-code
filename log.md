@@ -344,3 +344,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Quoting Strings with Single Quotes. Escape Sequences in Strings.
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings
+
+
+### Day 48: November 4, 2019
+
+**Today's Progress**: Escape Sequences in Strings.
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings
