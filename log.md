@@ -359,3 +359,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Concatenating Strings with Plus Operator. Concatenating Strings with the Plus Equals Operator
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator
+
+
+
+### Day 50: November 6, 2019
+
+**Today's Progress**: Concatenating Strings with the Plus Equals Operator
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator
