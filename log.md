@@ -376,3 +376,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/find-the-length-of-a-string
 
 
+
+### Day 52: November 8, 2019
+
+**Today's Progress**: Use Bracket Notation to Find the First Character in a String. Understand String Immutability. Use Bracket Notation to Find the Nth Character in a String. Use Bracket Notation to Find the Last Character in a String. Use Bracket Notation to Find the Nth-to-Last Character in a String.
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string
+
+
