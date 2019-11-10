@@ -389,3 +389,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Word Blanks. Store Multiple Values in one Variable using JavaScript Arrays
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays
+
+
+### Day 54: November 10, 2019
+
+**Today's Progress**: Nest one Array within Another Array. Access Array Data with Indexes. Modify Array Data With Indexes. Access Multi-Dimensional Arrays With Indexes.
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes
