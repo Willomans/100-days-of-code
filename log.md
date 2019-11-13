@@ -403,3 +403,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Manipulate Arrays With push(). Manipulate Arrays With pop()
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop
+
+
+
+### Day 56: November 13, 2019
+
+**Today's Progress**: Manipulate Arrays With shift(). Manipulate Arrays With unshift()
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift
