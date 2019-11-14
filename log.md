@@ -411,3 +411,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Manipulate Arrays With shift(). Manipulate Arrays With unshift()
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift
+
+
+### Day 57: November 14, 2019
+
+**Today's Progress**: Shopping List. Write Reusable JavaScript with Functions. Passing Values to Functions with Arguments
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments
