@@ -418,3 +418,12 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Shopping List. Write Reusable JavaScript with Functions. Passing Values to Functions with Arguments
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments
+
+
+
+### Day 58: November 15, 2019
+
+**Today's Progress**: Global Scope and Functions. Local Scope and Functions
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions
+
