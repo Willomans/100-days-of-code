@@ -427,3 +427,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions
 
+
+
+### Day 59: November 16, 2019
+
+**Today's Progress**: Global vs. Local Scope in Functions. Return a Value from a Function with Return
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return
