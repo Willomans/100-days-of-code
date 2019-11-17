@@ -434,3 +434,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Global vs. Local Scope in Functions. Return a Value from a Function with Return
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return
+
+
+
+### Day 60: November 17, 2019
+
+**Today's Progress**: Return a Value from a Function with Return. Understanding Undefined Value returned from a Function
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function
