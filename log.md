@@ -442,3 +442,12 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Return a Value from a Function with Return. Understanding Undefined Value returned from a Function
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function
+
+
+
+### Day 61: November 18, 2019
+
+**Today's Progress**: Stand in Line. Understanding Boolean Values. Use Conditional Logic with If Statements
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements
+
