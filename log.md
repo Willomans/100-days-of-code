@@ -451,3 +451,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements
 
+
+
+### Day 62: November 19, 2019
+
+**Today's Progress**: Comparison with the Equality Operator. Comparison with the Strict Equality Operator. Practice comparing different values. Comparison with the Inequality Operator.
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-inequality-operator
