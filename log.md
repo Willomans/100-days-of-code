@@ -466,3 +466,14 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Comparison with the Strict Inequality Operator. Comparison with the Greater Than Operator. Comparison with the Greater Than Or Equal To Operator.
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-or-equal-to-operator
+
+
+
+### Day 64: November 21, 2019
+
+**Today's Progress**: Comparison with the Less Than Operator. Comparison with the Less Than Or Equal To Operator
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator
+
+
+
