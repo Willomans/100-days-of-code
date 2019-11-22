@@ -476,4 +476,8 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator
 
 
+### Day 65: November 22, 2019
 
+**Today's Progress**: Comparisons with the Logical And Operator. Comparisons with the Logical Or Operator.
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator
