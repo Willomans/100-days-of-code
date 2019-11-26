@@ -476,8 +476,27 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator
 
 
-### Day 66: November 22, 2019
+### Day 65: November 22, 2019
 
 **Today's Progress**: Introducing Else Statements. Introducing Else If Statements.
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements
+
+
+
+
+### Day 66: November 24, 2019
+
+**Today's Progress**: Introducing Else Statements. Introducing Else If Statements
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements
+
+
+
+### Day 67: November 26, 2019
+
+**Today's Progress**: Logical Order in If Else Statements. Chaining If Else Statements. Golf Code
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code
+
+
