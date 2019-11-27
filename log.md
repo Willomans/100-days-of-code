@@ -500,3 +500,9 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code
 
 
+### Day 68: November 27, 2019
+
+**Today's Progress**: Selecting from Many Options with Switch Statements. Adding a Default Option in Switch Statements. Multiple Identical Options in Switch Statements. Replacing If Else Chains with Switch
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch
+
