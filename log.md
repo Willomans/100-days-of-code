@@ -506,3 +506,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch
 
+
+
+### Day 69: November 28, 2019
+
+**Today's Progress**: Returning Boolean Values from Functions. Return Early Pattern for Functions
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions
