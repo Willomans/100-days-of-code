@@ -513,3 +513,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Returning Boolean Values from Functions. Return Early Pattern for Functions
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions
+
+
+### Day 70: November 29, 2019
+
+**Today's Progress**: Counting Cards. Build JavaScript Objects. Accessing Object Properties with Dot Notation
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation
