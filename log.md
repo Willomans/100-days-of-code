@@ -520,3 +520,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Counting Cards. Build JavaScript Objects. Accessing Object Properties with Dot Notation
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation
+
+
+### Day 71: November 30, 2019
+
+**Today's Progress**: Accessing Object Properties with Bracket Notation. Accessing Object Properties with Variables. Updating Object Properties. Add New Properties to a JavaScript Object. Delete Properties from a JavaScript Object. Using Objects for Lookups. Testing Objects for Properties
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties
