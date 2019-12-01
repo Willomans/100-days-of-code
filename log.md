@@ -527,3 +527,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Accessing Object Properties with Bracket Notation. Accessing Object Properties with Variables. Updating Object Properties. Add New Properties to a JavaScript Object. Delete Properties from a JavaScript Object. Using Objects for Lookups. Testing Objects for Properties
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties
+
+
+### Day 72: December 1, 2019
+
+**Today's Progress**: Manipulating Complex Objects. Accessing Nested Objects
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects
+
