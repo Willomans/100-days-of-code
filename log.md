@@ -542,3 +542,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Accessing Nested Arrays. Record Collection
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection
+
+
+### Day 74: December 4, 2019
+
+**Today's Progress**: Record Collection. Iterate with JavaScript While Loops
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops
