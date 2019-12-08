@@ -556,3 +556,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Iterate with JavaScript For Loops. Iterate Odd Numbers With a For Loop. Count Backwards With a For Loop
 
 **Link to work**: hhttps://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/count-backwards-with-a-for-loop
+
+
+### Day 76: December 8, 2019
+
+**Today's Progress**: Iterate Odd Numbers With a For Loop. Count Backwards With a For Loop. Iterate Through an Array with a For Loop. Nesting For Loops.
+
+**Link to work**: hhttps://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/count-backwards-with-a-for-loop
