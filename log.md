@@ -570,3 +570,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Iterate with JavaScript Do...While Loops. Replace Loops using Recursion. Profile Lookup. Generate Random Fractions with JavaScript
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-fractions-with-javascript
+
+
+### Day 78: December 10, 2019
+
+**Today's Progress**: Generate Random Whole Numbers with JavaScript. Generate Random Whole Numbers within a Range. Use the parseInt Function
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function
