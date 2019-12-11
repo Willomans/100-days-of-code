@@ -577,3 +577,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Generate Random Whole Numbers with JavaScript. Generate Random Whole Numbers within a Range. Use the parseInt Function
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function
+
+
+### Day 79: December 11, 2019
+
+**Today's Progress**: Use the parseInt Function with a Radix. Use the Conditional (Ternary) Operator
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-conditional-ternary-operator
