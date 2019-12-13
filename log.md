@@ -584,3 +584,12 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Use the parseInt Function with a Radix. Use the Conditional (Ternary) Operator
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-conditional-ternary-operator
+
+
+
+### Day 80: December 13, 2019
+
+**Today's Progress**: Use Multiple Conditional (Ternary) Operators. Use Recursion to Create a Countdown
+
+**Link to work**: Use Multiple Conditional (Ternary) Operators
+Use Recursion to Create a Countdown
