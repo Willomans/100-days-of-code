@@ -599,3 +599,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Use Recursion to Create a Range of Numbers. Explore Differences Between the var and let Keywords
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/explore-differences-between-the-var-and-let-keywords
+
+
+### Day 81: December 15, 2019
+
+**Today's Progress**: Compare Scopes of the var and let Keywords. Declare a Read-Only Variable with the const Keyword. Mutate an Array Declared with const.
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const
