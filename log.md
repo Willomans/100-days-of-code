@@ -606,3 +606,12 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Compare Scopes of the var and let Keywords. Declare a Read-Only Variable with the const Keyword. Mutate an Array Declared with const.
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const
+
+
+
+### Day 83: December 16, 2019
+
+**Today's Progress**: Prevent Object Mutation. Use Arrow Functions to Write Concise Anonymous Functions
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-arrow-functions-to-write-concise-anonymous-functions
+
