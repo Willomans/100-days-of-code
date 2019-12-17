@@ -615,3 +615,9 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-arrow-functions-to-write-concise-anonymous-functions
 
+
+### Day 84: December 17, 2019
+
+**Today's Progress**: Write Arrow Functions with Parameters. Set Default Parameters for Your Functions
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/set-default-parameters-for-your-functions
