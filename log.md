@@ -628,3 +628,12 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Use the Rest Parameter with Function Parameters. Use the Spread Operator to Evaluate Arrays In-Place
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place
+
+
+
+### Day 86: December 20, 2019
+
+**Today's Progress**: Use Destructuring Assignment to Extract Values from Objects. Use Destructuring Assignment to Assign Variables from Objects
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-objects
+
