@@ -637,3 +637,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-objects
 
+
+
+### Day 87: December 27, 2019
+
+**Today's Progress**: Use Destructuring Assignment to Assign Variables from Nested Objects. Use Destructuring Assignment to Assign Variables from Arrays
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays
+
