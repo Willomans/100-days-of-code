@@ -645,3 +645,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays
 
+
+
+### Day 88: December 29, 2019
+
+**Today's Progress**: Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements. Use Destructuring Assignment to Pass an Object as a Function's Parameters
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters
+
