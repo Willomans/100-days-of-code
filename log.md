@@ -653,3 +653,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters
 
+
+
+### Day 89: January 5, 2020
+
+**Today's Progress**: Create Strings using Template Literals. Write Concise Object Literal Declarations Using Object Property Shorthand
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-object-literal-declarations-using-object-property-shorthand
