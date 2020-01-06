@@ -660,3 +660,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Create Strings using Template Literals. Write Concise Object Literal Declarations Using Object Property Shorthand
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-object-literal-declarations-using-object-property-shorthand
+
+
+
+### Day 90: January 6, 2020
+
+**Today's Progress**: Write Concise Declarative Functions with ES6. Use class Syntax to Define a Constructor Function
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-class-syntax-to-define-a-constructor-function
