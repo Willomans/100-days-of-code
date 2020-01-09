@@ -668,3 +668,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Write Concise Declarative Functions with ES6. Use class Syntax to Define a Constructor Function
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-class-syntax-to-define-a-constructor-function
+
+
+
+### Day 91: January 9, 2020
+
+**Today's Progress**: Use getters and setters to Control Access to an Object. Create a Module Script
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-module-script
