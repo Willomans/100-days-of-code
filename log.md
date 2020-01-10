@@ -676,3 +676,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Use getters and setters to Control Access to an Object. Create a Module Script
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-module-script
+
+
+### Day 92: January 10, 2020
+
+**Today's Progress**: Use export to Share a Code Block. Reuse Javascript Code Using import
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/reuse-javascript-code-using-import
+
