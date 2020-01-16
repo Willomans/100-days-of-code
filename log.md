@@ -690,3 +690,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Use * to Import Everything from a File. Create an Export Fallback with export default
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default
+
+
+### Day 94: January 16, 2020
+
+**Today's Progress**: Import a Default Export. Create a JavaScript Promise
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-javascript-promise
