@@ -697,3 +697,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Import a Default Export. Create a JavaScript Promise
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-javascript-promise
+
+
+### Day 95: January 16, 2020
+
+**Today's Progress**: Complete a Promise with resolve and reject. Handle a Fulfilled Promise with then. Handle a Rejected Promise with catch
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-rejected-promise-with-catch
