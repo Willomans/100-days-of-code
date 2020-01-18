@@ -699,8 +699,15 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-javascript-promise
 
 
-### Day 95: January 16, 2020
+### Day 95: January 17, 2020
 
 **Today's Progress**: Complete a Promise with resolve and reject. Handle a Fulfilled Promise with then. Handle a Rejected Promise with catch
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-rejected-promise-with-catch
+
+
+### Day 96: January 18, 2020
+
+**Today's Progress**: Introduction to the Regular Expression Challenges. Using the Test Method. Match Literal Strings
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-literal-strings
