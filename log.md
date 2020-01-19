@@ -711,3 +711,10 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Introduction to the Regular Expression Challenges. Using the Test Method. Match Literal Strings
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-literal-strings
+
+
+### Day 97: January 19, 2020
+
+**Today's Progress**: Match a Literal String with Different Possibilities. Ignore Case While Matching. Extract Matches. Find More Than the First Match
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-more-than-the-first-match
