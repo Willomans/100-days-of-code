@@ -731,3 +731,11 @@ Pushed all my codes to github: https://github.com/Willomans/eLearning
 **Today's Progress**: Match Characters that Occur One or More Times. Match Characters that Occur Zero or More Times. Find Characters with Lazy Matching. Find One or More Criminals in a Hunt. Match Beginning String Patterns
 
 **Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-beginning-string-patterns
+
+
+### Day 100: January 23, 2020
+
+**Today's Progress**: Match Ending String Patterns. Match All Letters and Numbers. Match Everything But Letters and Numbers
+Match All Numbers. Match All Non-Numbers. Restrict Possible Usernames. Match Whitespace
+
+**Link to work**: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-whitespace
